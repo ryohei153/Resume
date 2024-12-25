@@ -1,15 +1,15 @@
 # 職務経歴書
 
 
-<font face="green">## 基本情報 </font>
+<font face="green">　基本情報 </font>
 - **名前**: 石川　良平
-- **生年月日** 1991年8月
-- **最終学歴** 大学卒業
+- **生年月日**: 1991年8月
+- **最終学歴**: 大学卒業
 - **取得資格**
-- (2023年11月)AWS Certified Cloud Practitioner
-- (2023年11月)AWS Certified Solutions Architect Associate
-- (2024年10月)itパスポート
-- (2024年11月)情報セキュリティマネジメント
+- (2023年11月)AWS Certified Cloud Practitioner(CLF)
+- (2023年11月)AWS Certified Solutions Architect Associate(SAA)
+- (2024年10月)ITパスポート(IP)
+- (2024年11月)情報セキュリティマネジメント(SG)
 - (2024年11月)CompTIA Advanced Security Practitioner(CASP+)
 
 ## スキル
